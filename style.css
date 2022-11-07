@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+.left {
+    color: blue; text-align: left;
+}
+.right {
+    color: blue; text-align: right;
+    margin-left: 750px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td  {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
